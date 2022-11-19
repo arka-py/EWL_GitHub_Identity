@@ -1,0 +1,59 @@
+
+.outer-container{
+    border: solid black;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 10%;
+    background-color: white;
+    margin: 50px auto;
+}
+
+.home-container{
+    border: solid black;
+    width: fit-content;
+    padding: 50px 60px 50px 60px;
+    text-align: center;
+    border-radius: 10%;
+    background-color: white;
+}
+
+.home-container h1{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 3rem;
+}
+
+.login-btn{
+    background-color: white;
+    padding: 20px;
+    font-size: 15px;
+    border: solid black;
+    border-radius: 10%;
+    margin: 90px 5px 20px 5px;
+
+}
+
+.login-btn:hover{
+    background-color: black;
+    color: white;
+    transition: 0.2s;
+}
+
+.logo{
+    width: 70px;
+    height: 70px;
+}
+
+.success-container{    
+    border: solid black;
+    width: fit-content;
+    padding: 50px 60px 50px 60px;
+    text-align: center;
+    border-radius: 10%;
+    background-color: white;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.home-container h2{
+    font-family: 'Nunito Sans', sans-serif;
+
+}
